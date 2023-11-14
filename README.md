@@ -94,3 +94,9 @@ React is a powerful front-end framework known for its declarative, component-bas
  * - Updates the authentication token using the provided callback function.
  */
 
+--How to run--
+commands: 
+1) node install
+2) node -v to check node version
+3) npm install
+4) npm start
